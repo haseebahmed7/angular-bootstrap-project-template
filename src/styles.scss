@@ -1,1 +1,7 @@
-/* You can add global styles to this file, and also import other style files */
+// BOOTSTRAP 4 WITH BOOTSWATCH
+// Your variable overrides go here, e.g.:
+// $h1-font-size: 3rem;
+
+@import "../node_modules/bootswatch/dist/yeti/variables";
+@import "../node_modules/bootstrap-scss/bootstrap.scss";
+@import "../node_modules/bootswatch/dist/yeti/bootswatch";
